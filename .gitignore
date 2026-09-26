@@ -1,0 +1,16 @@
+# Python Virtual Environment & Caches
+backend/.venv/
+*.pyc
+__pycache__/
+.env
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# IDE / OS
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/settings.json
