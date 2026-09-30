@@ -1,0 +1,14 @@
+# Environments & Modules
+**/.venv/**
+**/node_modules/**
+**/dist/**
+**/build/**
+**/.git/**
+**/README.md/**
+
+
+# Cache & temp
+**/__pycache__/**
+*.pyc
+.DS_Store
+Thumbs.db
